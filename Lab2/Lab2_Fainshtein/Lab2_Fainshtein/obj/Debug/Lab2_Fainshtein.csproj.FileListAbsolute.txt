@@ -1,0 +1,14 @@
+D:\Work\VS Project\Lab2_Fainshtein\Lab2_Fainshtein\bin\Debug\Lab2_Fainshtein.exe.config
+D:\Work\VS Project\Lab2_Fainshtein\Lab2_Fainshtein\bin\Debug\Lab2_Fainshtein.exe
+D:\Work\VS Project\Lab2_Fainshtein\Lab2_Fainshtein\bin\Debug\Lab2_Fainshtein.pdb
+D:\Work\VS Project\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.csprojAssemblyReference.cache
+D:\Work\VS Project\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.csproj.CoreCompileInputs.cache
+D:\Work\VS Project\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.exe
+D:\Work\VS Project\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.pdb
+D:\Реферат\Конспекты С#\ООП\Лаб 2\Lab2_Fainshtein\Lab2_Fainshtein\bin\Debug\Lab2_Fainshtein.exe.config
+D:\Реферат\Конспекты С#\ООП\Лаб 2\Lab2_Fainshtein\Lab2_Fainshtein\bin\Debug\Lab2_Fainshtein.exe
+D:\Реферат\Конспекты С#\ООП\Лаб 2\Lab2_Fainshtein\Lab2_Fainshtein\bin\Debug\Lab2_Fainshtein.pdb
+D:\Реферат\Конспекты С#\ООП\Лаб 2\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.csprojAssemblyReference.cache
+D:\Реферат\Конспекты С#\ООП\Лаб 2\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.csproj.CoreCompileInputs.cache
+D:\Реферат\Конспекты С#\ООП\Лаб 2\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.exe
+D:\Реферат\Конспекты С#\ООП\Лаб 2\Lab2_Fainshtein\Lab2_Fainshtein\obj\Debug\Lab2_Fainshtein.pdb
