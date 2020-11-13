@@ -1,0 +1,20 @@
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\bin\Debug\Lab4_Fainshtein.exe.config
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\bin\Debug\Lab4_Fainshtein.exe
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\bin\Debug\Lab4_Fainshtein.pdb
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.csprojAssemblyReference.cache
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.Form1.resources
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.Properties.Resources.resources
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.csproj.GenerateResource.cache
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.csproj.CoreCompileInputs.cache
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.exe
+D:\Work\VS Project\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.pdb
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\bin\Debug\Lab4_Fainshtein.exe.config
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\bin\Debug\Lab4_Fainshtein.exe
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\bin\Debug\Lab4_Fainshtein.pdb
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.csprojAssemblyReference.cache
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.Form1.resources
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.Properties.Resources.resources
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.csproj.GenerateResource.cache
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.csproj.CoreCompileInputs.cache
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.exe
+D:\Git\C#\Lab4\Lab4_Fainshtein\Lab4_Fainshtein\obj\Debug\Lab4_Fainshtein.pdb
