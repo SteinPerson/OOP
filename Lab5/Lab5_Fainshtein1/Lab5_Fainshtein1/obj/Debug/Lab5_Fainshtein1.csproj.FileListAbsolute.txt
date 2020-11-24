@@ -1,0 +1,7 @@
+D:\Work\VS Project\Lab5_Fainshtein1\Lab5_Fainshtein1\bin\Debug\Lab5_Fainshtein1.exe.config
+D:\Work\VS Project\Lab5_Fainshtein1\Lab5_Fainshtein1\bin\Debug\Lab5_Fainshtein1.exe
+D:\Work\VS Project\Lab5_Fainshtein1\Lab5_Fainshtein1\bin\Debug\Lab5_Fainshtein1.pdb
+D:\Work\VS Project\Lab5_Fainshtein1\Lab5_Fainshtein1\obj\Debug\Lab5_Fainshtein1.csprojAssemblyReference.cache
+D:\Work\VS Project\Lab5_Fainshtein1\Lab5_Fainshtein1\obj\Debug\Lab5_Fainshtein1.csproj.CoreCompileInputs.cache
+D:\Work\VS Project\Lab5_Fainshtein1\Lab5_Fainshtein1\obj\Debug\Lab5_Fainshtein1.exe
+D:\Work\VS Project\Lab5_Fainshtein1\Lab5_Fainshtein1\obj\Debug\Lab5_Fainshtein1.pdb
